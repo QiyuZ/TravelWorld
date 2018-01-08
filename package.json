@@ -1,0 +1,32 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "this is a website for sharing camping places",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qiyu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cloudinary": "^1.9.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "geocoder": "^0.2.3",
+    "locus": "^2.0.1",
+    "method-override": "^2.3.10",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.0-rc0",
+    "multer": "^1.3.0",
+    "nodemon": "^1.14.6",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.4.0",
+    "request": "^2.83.0"
+  }
+}
